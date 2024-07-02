@@ -1,5 +1,6 @@
 class Program2
 {
+	/* This is sample java program */
 	public static void main(String[] args)
 	{
 		int a = 10;
